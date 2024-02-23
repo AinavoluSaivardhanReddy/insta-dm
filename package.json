@@ -1,0 +1,25 @@
+{
+  "name": "insta",
+  "version": "1.0.0",
+  "description": "wrapper for instagram messenger",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AinavoluSaivardhanReddy/insta-dm.git"
+  },
+  "author": "Sai Vardhan Reddy Ainavolu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AinavoluSaivardhanReddy/insta-dm/issues"
+  },
+  "homepage": "https://github.com/AinavoluSaivardhanReddy/insta-dm#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "instagram-private-api": "^1.45.3",
+    "moment": "^2.30.1"
+  }
+}
